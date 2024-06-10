@@ -1,8 +1,18 @@
 #### 安卓原生java语法，android studio开发，点击头像进主页看更多作品 下方有联系方式
 
+源码有注释+文档
+源码有注释+文档
+源码有注释+文档
+
+单词可发音
+
+程序单词数据存在本地sqlite数据库中，无后台服务器，全部操作均在本地sqlite数据库中实现
+
+有文档约4千多字，文字+截图说明程序的实现过程，无多余的直接复制源代码文本到文档里
+
 apk体验地址下载
 
-链接：https://pan.baidu.com/s/1C-kLoHFPA3Y1UQT1SJ205w?pwd=8888 
+链接：https://pan.baidu.com/s/1Q5ebA6qq9lyvKKVYvesbzg?pwd=8888 
 提取码：8888
 
  <img src='https://img.alicdn.com/imgextra/i2/1658540494/O1CN01fWrQSZ1FWIbeIi2RO_!!1658540494.jpg' alt='a53.jpg' /></br> 
